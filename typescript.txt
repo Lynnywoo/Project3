@@ -1,0 +1,33 @@
+Script started on 2026-03-20 19:37:30+00:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="143" LINES="23"]
+[?2004h[0;32m@Lynnywoo [0m➜ [1;34m/workspaces/Project3 [0;36m([1;31mmain[0;36m) [0m$ [7m./a.out[27m./a.out[7m./a.out[27m./a.outC./a.out./a.out[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[7m./a.out[27m./a.out[7m./a.out[27m./a.out[7m./a.out[27m[1P./a.ou[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[7mg++ project3.cpp -o a.out[27mg++ project3.cpp -o a.out
+[?2004l[?2004h[0;32m@Lynnywoo [0m➜ [1;34m/workspaces/Project3 [0;36m([1;31mmain[0;36m) [0m$ ./a.out
+[?2004l=== kSmall Algorithm ===
+
+--- kth smallest is in the S1 array ---
+Array: 6 3 1 10 8 4
+k = 2
+The 2nd smallest element is: 3
+Expected: 3
+
+--- kth smallest is the pivot point ---
+Array: 6 3 1 10 8 4
+k = 4
+The 4th smallest element is: 6
+Expected: 6
+
+--- kth smallest is in the S2 array ---
+Array: 6 3 1 10 8 4
+k = 6
+The 6th smallest element is: 10
+Expected: 10
+
+--- S1 is empty ---
+Array: 1 3 5 2 19 3 4
+k = 1
+The 1st smallest element is: 1
+Expected: 1
+
+[?2004h[0;32m@Lynnywoo [0m➜ [1;34m/workspaces/Project3 [0;36m([1;31mmain[0;36m) [0m$ exit
+[?2004lexit
+
+Script done on 2026-03-20 19:38:16+00:00 [COMMAND_EXIT_CODE="0"]
